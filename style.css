@@ -1,0 +1,35 @@
+
+.container {
+    width: auto;
+    box-shadow: 3px 3px 10px  black;
+    padding: 15px;
+}
+
+.slider {
+    margin: 20px 419px;
+    overflow: hidden;
+    width: 455px;
+}
+.slider-line {
+    position: relative;
+    display: flex;
+    width: 512px;
+    height: 256px;
+    left: 0;
+    transition: all ease 1s;
+}
+
+
+.button {
+    margin: 20px 419px;
+}
+
+.button button {
+    padding: 15px;
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+
+
+
